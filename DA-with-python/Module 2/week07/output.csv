@@ -1,0 +1,5 @@
+full_name,annual_salary,city,monthly_salary,senior,rank
+Alice,85000,Karachi,7083.333333333333,True,Mid
+Bob,85000,Karachi,7083.333333333333,True,Mid
+Carol,91000,Lahore,7583.333333333333,True,Senior
+David,65000,Lahore,5416.666666666667,False,Junior

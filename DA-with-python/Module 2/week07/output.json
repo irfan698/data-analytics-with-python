@@ -1,0 +1,32 @@
+[
+    {
+        "name":"Alice",
+        "department":"Engineering",
+        "salary":85000,
+        "active":true
+    },
+    {
+        "name":"Bob",
+        "department":"Finance",
+        "salary":72000,
+        "active":true
+    },
+    {
+        "name":"Carol",
+        "department":"Engineering",
+        "salary":91000,
+        "active":false
+    },
+    {
+        "name":"David",
+        "department":"HR",
+        "salary":65000,
+        "active":true
+    },
+    {
+        "name":"Eve",
+        "department":"Finance",
+        "salary":78000,
+        "active":true
+    }
+]
