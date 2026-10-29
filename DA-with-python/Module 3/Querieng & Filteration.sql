@@ -1,5 +1,7 @@
 SELECT * FROM production.products;
 
+-- database.schema.table
+
 -- column wise filteration 
 SELECT customer_id,first_name, last_name FROM SALES.customers;
 
